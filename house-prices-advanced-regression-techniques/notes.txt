@@ -1,0 +1,1 @@
+find parameter for models: https://towardsdatascience.com/finding-the-right-model-parameters-3670a1c086b3
